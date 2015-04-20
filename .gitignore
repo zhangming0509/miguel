@@ -2,3 +2,4 @@ flask
 *.py[co]
 
 *.db
+db_repository/
